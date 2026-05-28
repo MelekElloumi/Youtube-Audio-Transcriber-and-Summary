@@ -8,3 +8,6 @@ transcriptions/
 .vscode/
 claude_code_context.md
 .claude/
+dist/
+*.spec
+build/
