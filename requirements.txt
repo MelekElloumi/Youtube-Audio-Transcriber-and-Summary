@@ -1,0 +1,7 @@
+youtube-transcript-api>=1.2.4
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+notion-client>=3.0.0
+
+# Optional — only needed for Whisper (local audio transcription) mode
+# faster-whisper>=1.0.0

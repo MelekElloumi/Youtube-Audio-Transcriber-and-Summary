@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+logs/
+transcriptions/
+.idea/
+.vscode/
+claude_code_context.md
+.claude/
