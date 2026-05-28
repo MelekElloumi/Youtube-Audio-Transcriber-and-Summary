@@ -9,7 +9,7 @@ A Tkinter desktop app (Windows) that fetches YouTube transcripts, summarizes the
 - **Gemini summarization** — sends the transcript to Google Gemini with a customizable prompt
 - **Notion integration** — creates a formatted Notion page with the summary and video link
 - **Notion browser** — navigate your Notion pages to pick a destination, or create new category pages
-- **Language support** — Arabic (+ regional variants), French, and English
+- **Language support** — Arabic, French, and English
 
 ## Setup
 
